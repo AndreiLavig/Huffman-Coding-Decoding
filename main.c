@@ -1,6 +1,3 @@
-//
-// Created by 孙健淞 on 25-6-7.
-//
 #include <stdio.h>
 #include <stdlib.h>
 #include "hfm.h"
