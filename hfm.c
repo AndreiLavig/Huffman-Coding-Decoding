@@ -1,6 +1,3 @@
-//
-// Created by 孙健淞 on 25-6-7.
-//
 #include <stdio.h>   // FILE, printf, scanf, fopen, fgetc, fputc, fprintf, perror, EOF 等
 #include <stdlib.h>  // malloc, free, exit
 #include <string.h>  // strcmp, strdup
