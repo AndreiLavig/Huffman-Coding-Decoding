@@ -1,6 +1,11 @@
 //
 // Created by 孙健淞 on 25-6-7.
 //
+#include <stdio.h>   // FILE, printf, scanf, fopen, fgetc, fputc, fprintf, perror, EOF 等
+#include <stdlib.h>  // malloc, free, exit
+#include <string.h>  // strcmp, strdup
+#include <stdbool.h> // bool, true, false
+
 #define MAX 256
 
 typedef struct HuffmanNode//创建哈夫曼树节点的结构体
