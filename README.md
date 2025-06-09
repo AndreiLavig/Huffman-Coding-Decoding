@@ -17,6 +17,7 @@
 ```bash
 make
 ./hfm
+```
 
 ### 输入格式
 ```bash
