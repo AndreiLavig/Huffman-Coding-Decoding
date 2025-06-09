@@ -17,3 +17,19 @@
 ```bash
 make
 ./hfm
+
+### 输入格式
+```bash
+ A 0.01 //字符前需有一个空格
+ b 0.1
+ ToBeTran.txt 里写入需要进行编码的文本
+
+```
+### 输出的文件
+```bash
+hfmTree:生成的字符与码字的映射表
+CodeFile:ToBeTran编码后的文本
+TextFile:CodeFile译码后的文本
+CodePrin:ToBeTran编码后的紧凑文本
+TreePrint:储存哈夫曼树
+```
